@@ -106,4 +106,19 @@
 
 .field input[type="submit"] {
     background: #b7a3ec;
+    cursor: pointer;
+}
+
+.login{
+    color: #fff;
+    margin: 20px 0;
+    font-family:"Poppins", sans-serif, cursive ;
+}
+
+i span{
+    margin-left: 8px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif, cursive;
 }
